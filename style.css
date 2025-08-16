@@ -1,0 +1,34 @@
+.table{
+    padding-left:20%;
+    justify-content: center;}
+table{
+border-collapse: collapse;
+width: 70%;
+text-align: center;
+justify-content: center;
+padding-left: 40px;
+}
+.td{
+    background-color: burlywood
+}
+.pink{
+    background-color: pink;
+}
+.light{
+    background-color: paleturquoise;
+}
+.yellow{
+    background-color: rgb(50, 205, 135);
+}
+.orange{
+    background-color: lightcoral;
+}
+.beige{
+    background-color: beige;
+}
+.past{
+    background-color: peachpuff;
+}
+.off{
+    background-color: coral;
+}
